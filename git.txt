@@ -1,0 +1,38 @@
+﻿ما هو Version control؟
+أداة تُدير التغيرات المتعلقة بالأكواد والملفات داخل المشروع.
+أداة تجعلك تتبع جميع التعديلات بالتوقيتات الزمنية لكل تعديل.
+أداة تُتيح لك تخزين نسخة من الملفات علي جهازك الشخصي أو على الاداة المستخدمة لتطبيق الـ version control مثل Git.
+ما هو Git؟
+هو Software يُستخدم لتطبيق الـ version control. وهو من أشهر أنواع الـ version control.
+
+يوجد العديد من البرامج المختلفة التي تُستخدم لتطبيق الـ version control مثل:
+
+- CVS
+
+- SVN
+
+- Perforce
+
+- Bazzare
+
+
+ما هو الفرق بين Git vs. Github؟
+ال Git هو عبارة عن version control يُدير التغيرات المتعلقة بالأكواد والملفات داخل المشروع.
+
+ال Github برنامج لادارة وتنظيم الملفات (Git Repos) علي Cloud. ويسمح بمشاركة المشاريع وتعديلها من أي جهاز
+
+
+
+
+
+
+
+DKcsMxK2_GyzWh2T
+
+
+Sql Server
+Python
+Excel
+Power Bi
+Tableau
+git&github

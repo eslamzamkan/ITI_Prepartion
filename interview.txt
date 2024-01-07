@@ -1,0 +1,33 @@
+Interview questions for PLSQL Developers(Freshers)
+
+1) Diff between procedures and functions?
+
+2) What is trigger? Types of trigger?
+3) Diff between index by table, nested table and varray?
+4) What are the exceptions in PLSQL?
+5) What is cursor? Types of cursor?
+6) What is SQLCODE, SQLERRM?
+7) Explain pragma exception INIT?
+8) What is raise_application_error?
+9) Diff between cursor and collection?
+10) What are the cursor attributes?
+11) What is instead of trigger, compound trigger?
+12) How to trace line number at which error is occur?
+13) What are the packages? Advantages of packages?
+14) What are the variable attributes?
+15) What is dynamic SQL?
+16) Explain SQL Loader?
+17) What is external table?
+18) Diff between static cursor and refcursor?
+19) What is cursor for loop?
+20) What is Autonomous transactions?
+21) What is refcursor? Types of refcursor?
+22) Explain utl file package?
+23) What is mutating error?
+24) What is Large Objects?
+25) What is parameterized cursor?
+26) Can we use DML Statements in functions?
+27) What is overloading procedure?
+28) What is bulk bind process?
+29) Explain DDL trigger?
+30) Diff between row level trigger and statement level trigger?
